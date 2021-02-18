@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**flarfmatter/flarfmatter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Attempting to make open-source tools to help other people.
+Pronouns: She/her
+Favourite IDEs: Intellij && Visual Studio
+## Favourite languages (from most favourite to least):
+1. Kotlin
+2. JavaScript / TypeScript
+3. C#
+4. C++ (still learning)
+5. Assembly (also learning)
+## Idols and cool people (and companies):
+ 1. Scott Cawthon (creator of the FNaF franchise, donated about a million dollars to charities from the money he gained from FNaF)
+ 2. Elon Musk (Trillionare who still tweets like a normal human being, he's also doing his best at saving the world)
+ 3. Google (they were horrible about a year ago but they seem to be improving as they seem more focused on user choice and privacy)
+ 4. Markus Persson (creator of Minecraft)
