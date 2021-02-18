@@ -1,5 +1,5 @@
 Attempting to make open-source tools to help other people.<br>
-Pronouns: She/her
+Pronouns: She/her<br>
 Favourite IDEs: Intellij && Visual Studio
 ## Favourite languages (from most favourite to least):
 1. Kotlin
