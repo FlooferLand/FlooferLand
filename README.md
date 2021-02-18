@@ -1,4 +1,4 @@
-Attempting to make open-source tools to help other people.
+Attempting to make open-source tools to help other people.<br>
 Pronouns: She/her
 Favourite IDEs: Intellij && Visual Studio
 ## Favourite languages (from most favourite to least):
