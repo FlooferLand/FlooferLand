@@ -2,11 +2,11 @@ Attempting to make open-source tools to help other people.<br>
 Pronouns: She/her<br>
 Favourite IDEs: Intellij && Visual Studio
 ## Favourite languages (from most favourite to least):
-1. Kotlin
+1. C++ (still learning)
 2. JavaScript / TypeScript
 3. C#
-4. C++ (still learning)
-5. Assembly (also learning)
+4. Assembly (also learning)
+5. Kotlin
 ## Idols, cool people, and cool companies:
  1. Scott Cawthon (creator of the FNaF franchise, donated about a million dollars to charities from the money he gained from FNaF)
  2. Elon Musk (Trillionare who still tweets like a normal human being, he's also doing his best at saving the world)
