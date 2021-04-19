@@ -11,4 +11,3 @@ Favourite IDEs: Intellij && Visual Studio
  1. Scott Cawthon (creator of the FNaF franchise, donated about a million dollars to charities from the money he gained from FNaF)
  2. Elon Musk (Trillionare who still tweets like a normal human being, he's also doing his best at saving the world)
  3. Google (they were horrible about a year ago but they seem to be improving as they seem more focused on user choice and privacy)
- 4. Markus Persson (creator of Minecraft)
