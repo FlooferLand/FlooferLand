@@ -1,6 +1,7 @@
 Attempting to make open-source tools to help other people.<br>
 Favourite IDEs: Intellij && Visual Studio Code<br>
-OS: Fedora Cinnamon spin<br>
+Favourite OS: Debian and Pop!_OS
+Current OS: Windows 10 (Forced to use it because of software compatibility ;-;)
 
 ## Stands for:
   1. Free software - Free as in freedom, not in price. I believe proprietary software is a serious threat as using it you are fully relying on the creators of the software for bug fixes, adding of features, and the creators of the software can collect any data they want from you, such as taking a screenshot of your screen every minute and sending it to a private server of theirs
