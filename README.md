@@ -5,7 +5,7 @@ Current OS: Windows 10 (Forced to use it because of software compatibility ;-;)
 
 ## Stands for:
   1. Free software - Free as in freedom, not in price. I believe proprietary software is a serious threat as using it you are fully relying on the creators of the software for bug fixes, adding of features, and the creators of the software can collect any data they want from you, such as taking a screenshot of your screen every minute and sending it to a private server of theirs
-  2. Basic human rights - Many people get critiqued, bullied, and made fun of for absolutely no reason. People of a different skin color, people who weren't born to look like their gender, people of a different sexual orientation. People are people and unless they've hurt someone or something because of the way they are there is absolutely no reason to make fun of them
+  2. Basic human rights - Many people get critiqued, bullied, and made fun of for absolutely no reason. People of a different skin color, people who weren't born to look like their gender, people of a different sexual orientation. People are people and unless they've hurt someone or something, because it's dumb to make fun of people because of things they can't change.
 
 ## Favourite languages (from most favourite to least):
   1. C++
