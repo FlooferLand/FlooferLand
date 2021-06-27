@@ -1,6 +1,6 @@
 Attempting to make open-source tools to help other people.<br>
 Favourite IDEs: Intellij && Visual Studio Code<br>
-Favourite OS: Debian and Pop!_OS
+Favourite OS: Debian and Pop!_OS<br>
 Current OS: Windows 10 (Forced to use it because of software compatibility ;-;)
 
 ## Stands for:
