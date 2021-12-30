@@ -17,6 +17,9 @@ Current OS: Windows 10  *(Forced to use it because of software compatibility ;-;
   3. JavaScript / TypeScript
   4. C and 6502 Assembly *(learning aswell, mostly because i wanna make NES games)*
 
+#### Languages i most easily work with:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlooferLand&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Idols, cool people, and cool foundations:
   1. Scott Cawthon - Creator of the FNaF franchise, donated about over a million dollars to charities from the money he gained from FNaF.
 
