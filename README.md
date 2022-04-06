@@ -1,10 +1,10 @@
 hoi am Floof<br>
 I attempt to make open-source tools to help people (๑꧆◡꧆๑)<br>
 
-Favourite IDEs: `Intellij` && `Visual Studio Code`<br>
-Favourite OS: `Debian` and `Fedora`<br>
+Favourite IDEs: `Intellij` && `VSCodium (FOSS fork of VSCode)`<br>
+Favourite OS: `Arch`, `Debian`, and `Fedora`<br>
 
-Current OS: ~~Windows 10  *(Forced to use it because of software compatibility ;-;)*~~ Currently attempting to daily-drive Debian
+Current OS: ~~Windows 10  *(Forced to use it because of software compatibility ;-;)*~~ Currently daily-driving Arch Linux and absolutely loving it!
 
 ## Stands for:
   1. Basic human rights - Many people get critiqued, bullied, and made fun of for absolutely no reason. People of a different skin color, people who weren't born to look like their gender, people of a different sexual orientation. People are people and unless they've hurt someone or something, because it's dumb to make fun of people because of things they can't change.
