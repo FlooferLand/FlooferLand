@@ -1,13 +1,15 @@
-hoi am Floof!<br>
-I attempt to make open-source tools to help people (๑꧆◡꧆๑)<br>
+hoi am Floof! <br/>
+I attempt to make open-source tools to help people (๑꧆◡꧆๑) <br/>
 
-Favourite IDEs: `Intellij` && `VSCodium (FOSS fork of VSCode)`<br>
-Favourite OS: `Arch`, `Fedora`, and `Debian`<br>
+Favourite IDEs: `Intellij` && `VSCodium (FOSS fork of VSCode)` <br/>
+Favourite OS: `Arch`, `Fedora`, and `Debian` <br/>
 
-Current OS: `Windows 10`  *(Forced to use it because of software and hardware compatibility ;-;)*
+Current OS: `Windows 11`  *(Forced to use it because of software and hardware compatibility ;-;)*
+
+*(Some more info about me in my [Mastodon introduction](https://fandom.garden/web/@flooferland/109328457878674654))*
 
 ## Stands for:
-  1. Basic human rights - Many people get critiqued, bullied, and made fun of for absolutely no reason. People of a different skin color, people who weren't born to look like their gender, people of a different sexual orientation. People are people and unless they've hurt someone or something, because it's dumb to make fun of people because of things they can't change.
+  1. Basic human rights (duh) - Many people get critiqued, bullied, and made fun of for absolutely no reason. People of a different skin color, people who weren't born to look like their gender, people of a different sexual orientation. People are people and unless they've hurt someone or something, because it's dumb to make fun of people because of things they can't change.
 
   2. Free software - Free as in freedom, not in price. I believe proprietary software is a serious threat as using it you are fully relying on the creators of the software for bug fixes, adding of features, and the creators of the software can collect any data they want from you, such as taking a screenshot of your screen every minute and sending it to a private server of theirs for some malicious purpose.
 
@@ -30,6 +32,6 @@ Current OS: `Windows 10`  *(Forced to use it because of software and hardware co
   3. The GNU project and the Free Software Foundation - They are trying their best to point people to claiming back their privacy and security by pointing them to using free-as-in-freedom software
 
 ## Wrong-ens:
-  1. Facebook *(now called "Meta")* - While not all of Facebook is bad, a very large majority of it is. They have purchased companies and have broken promises quite a lot of times. For example when they bought Oculus they said they would never make users have to make a Facebook account to use their Oculus products, back in 2020 they made everyone require a Facebook account to use Oculus products. Another example is with Whatsapp. Whatsapp was made to be a secure and private way of communication, once Facebook bought it however they've introduced tons of telemetry and have broken the promise of keeping the platform private.
+  1. Facebook *(now called "Meta")* - While there are tiny parts of the Facebook corporation that aren't bad (the open-source sector specifically). The entire corporation is; They have purchased companies and have broken promises tons of times. For example when they bought Oculus they said they would never make users have to make a Facebook account to use their Oculus products, back in 2020 they made everyone require a Facebook account to use Oculus products. Another example is with Whatsapp. Whatsapp was made to be a secure and private way of communication, once Facebook bought it however they've introduced telemetry and have broken the promise of keeping the platform private.
 
-  2. Canonical - They provide a ton of non-free software with Ubuntu and have messed up countless times in the past (such as the time where they integrated Amazon into Ubuntu, including their telemetry system). Canonical also seems to try and drown out Linux distributions other than their own but that's just my personal theory.
+  2. Canonical - They provide a ton of non-free software with Ubuntu and have messed up a few times in the past (such as the time where they integrated Amazon into Ubuntu, including their telemetry system). Canonical also seems to try and drown out Linux distributions other than their own but that's just my personal theory.
