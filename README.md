@@ -6,7 +6,7 @@ Favourite OS: `Arch (EndeavourOS)`, `Fedora`, and `Debian` <br/>
 Current OS: `Windows 11`  *(Forced to use it because of software and hardware compatibility ;-;)*
 
 *(Some more info about me in my [Mastodon introduction](https://fandom.garden/web/@flooferland/109328457878674654))* <br/>
-Feel free to check out my personal website at https://flooferland.neocities.org/, or my game dev website at https://flooferland.netlify.org/
+Feel free to check out my personal website at https://flooferland.neocities.org/, or my game dev website at https://flooferland.netlify.com/
 
 ## Stands for:
   1. Basic human rights _(duh)_ - Many people get critiqued, bullied, and made fun of for absolutely no reason. People of a different skin color, people who weren't born to look like their gender, people of a different sexual orientation. People are people and unless they've hurt someone or something, because it's dumb to make fun of people because of things they can't change.
