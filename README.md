@@ -6,7 +6,9 @@ Favourite OS: `Arch (EndeavourOS)`, `Fedora`, and `Debian` <br/>
 Current OS: `Windows 11`  *(Forced to use it because of software and hardware compatibility ;-;)*
 
 *(Some more info about me in my [Mastodon introduction](https://fandom.garden/web/@flooferland/109328457878674654))* <br/>
-Feel free to check out my personal website at https://flooferland.neocities.org/, or my game dev website at https://flooferland.netlify.com/
+Feel free to check out my personal website at [Neocities](https://flooferland.neocities.org), or my game dev website at [Netlify](https://flooferland.netlify.com)
+<br/>
+I have a new website hosted over at [Vercel](https://flooferland.vercel.app) but it might still be a work in progress depending on when you're reading this!
 
 ## Contact me?
 Sure??? -- I'm [@FlooferLand](https://flooferland.neocities.org/#links) practically everywhere _(except Snapchat since someone stole my name >:C)_ <br/>
