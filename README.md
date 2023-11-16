@@ -30,7 +30,7 @@ I mainly use Discord and Matrix!!
   1. Assembly *(will be learning sometime, as i want to make NES games!)*
 
 #### Languages i use most often:
-[![Language list](https://github-readme-stats.vercel.app/api/top-langs/?username=FlooferLand&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Language list](https://github-readme-stats.vercel.app/api/top-langs/?username=FlooferLand&layout=compact&theme=onedark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Idols, cool people, and cool foundations:
   1. Scott Cawthon - Creator of the FNaF franchise, donated about over a million dollars to charities from the money he gained from FNaF. A big idol of mine when it comes to game development as well. He has kind of ruined his own franchise lately, with him telling people he's going to retire only to bring his franchise (that had a VERY good ending with FNaF 6 mind you) back from the dead. In general i feel like a lot of the new FNaF content feels soulless, and it isn't entirely due to SteelWool. I still like Scott, but i feel he's very much tired of it all and I don't get why he hasn't gotten someone else to manage everything so he could retired as he promised.
