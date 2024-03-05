@@ -1,9 +1,11 @@
 _hoi am Floof!_ <sub><sup>_(She/They)_</sup></sub> <br/>
 I attempt to make FOSS tools to help people (๑꧆◡꧆๑) <br/>
+I'm a programmer, music producer, 3D artist, and a open-source software nerd !! <br/>
+I also regularly sign up the creators of blog websites to their own newsletters if they have a newsletter popup to get back at them for showing 3 popups before letting me get to the actual content >:) <br/>
 
 Favourite IDEs: `VSCode` && `Intellij` <br/>
-Favourite OS: `Arch (EndeavourOS)`, `Fedora`, and `Debian` <br/>
-Current OS: `Windows 11`  *(Forced to use it because of software and hardware compatibility ;-;)*
+Favourite OS: `Arch (EndeavourOS)`, `Fedora`, and `Ubuntu (Linux Mint)` <br/>
+Current OS: `Windows 11`  *(Forced to use it because of software compatibility ;-;)*
 
 *(Some more info about me in my [Mastodon introduction](https://fandom.garden/web/@flooferland/109328457878674654))* <br/>
 Feel free to check out my personal website at [Neocities](https://flooferland.neocities.org), or my game dev website at [Netlify](https://flooferland.netlify.com)
