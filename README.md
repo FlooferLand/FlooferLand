@@ -15,7 +15,7 @@ I have a new website hosted over at [Vercel](https://flooferland.vercel.app) but
 ## Contact me?
 Sure??? -- I'm [@FlooferLand](https://flooferland.neocities.org/#links) practically everywhere _(except Snapchat since someone stole my name >:C)_ <br/>
 Feel free to contact me [on Twitter](https://twitter.com/FlooferLand) _(or "X" as the hippies call it)_ <br/>
-My email and Discord are [on my website](https://flooferland.vercel.app/contact/) so bots stop sending me spam _(dw, there's no JavaScript)_ <br/>
+My email and Discord are [on my website's contact page](https://flooferland.vercel.app/contact/) so bots stop sending me spam _(dw, there's no JavaScript)_ <br/>
 I mainly use Discord and Matrix!!
 
 ## Technical stuff
