@@ -5,7 +5,7 @@ I also regularly sign up the creators of blog websites to their own newsletters 
 
 Favourite IDEs: `VSCode` && `Intellij` <br/>
 Favourite OS: `Arch (EndeavourOS)`, `Fedora`, and `Ubuntu (Linux Mint)` <br/>
-Current OS: `Windows 11`  *(Forced to use it because of software compatibility ;-;)*
+Current OS: `Arch (EndeavourOS)`  *(yee I'm finally not using Windows anymore :D)*
 
 *(Some more info about me in my [Mastodon introduction](https://fandom.garden/web/@flooferland/109328457878674654))* <br/>
 Feel free to check out my personal website at [Neocities](https://flooferland.neocities.org), or my game dev website at [Netlify](https://flooferland.netlify.com)
