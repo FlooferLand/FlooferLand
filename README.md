@@ -8,15 +8,10 @@ Favourite OS: `Arch (EndeavourOS)`, `Fedora`, and `Ubuntu (Linux Mint)` <br/>
 Current OS: `Arch (EndeavourOS)`  *(yee I'm finally not using Windows anymore :D)*
 
 *(Some more info about me in my [Mastodon introduction](https://fandom.garden/web/@flooferland/109328457878674654))* <br/>
-Feel free to check out my personal website at [Neocities](https://flooferland.neocities.org), or my game dev website at [Netlify](https://flooferland.netlify.com)
-<br/>
-I have a new website hosted over at [Vercel](https://flooferland.vercel.app) but it might still be a work in progress depending on when you're reading this!
+Check out my website at https://flooferland.com
 
 ## Contact me?
-Sure??? -- I'm [@FlooferLand](https://flooferland.neocities.org/#links) practically everywhere _(except Snapchat since someone stole my name >:C)_ <br/>
-Feel free to contact me [on Twitter](https://twitter.com/FlooferLand) _(or "X" as the hippies call it)_ <br/>
-My email and Discord are [on my website's contact page](https://flooferland.vercel.app/contact/) so bots stop sending me spam _(dw, there's no JavaScript)_ <br/>
-I mainly use Discord and Matrix!!
+Feel free to contact me [on Tumblr](https://flooferland.tumblr.com/), or the contact email listed on [my website](https://flooferland.com) <br/>
 
 ## Technical stuff
 Click [here](#favourite-languages) to skip to my fav languages and stuff! _(if you wanna skip the "omg i love big corporation number 11 🥺 and big dude number 14 🥺" talk; aka people i look up to)_
