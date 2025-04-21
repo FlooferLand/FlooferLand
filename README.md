@@ -1,5 +1,5 @@
 _hoi am Floof!_ <sub><sup>_(She/They)_</sup></sub> <br/>
-I'm an ![](https://flooferland.com/badges/age?date=19-04-2006) indie game dev that attempts to make FOSS tools to help people (๑꧆◡꧆๑) <br/>
+I'm an <img src="https://flooferland.com/badges/age?date=19-04-2006" height="24px" /> indie game dev that attempts to make FOSS tools to help people (๑꧆◡꧆๑) <br/>
 I also do music producer, 3D art, and am an open-source software nerd !! <br/>
 _I also regularly sign up the creators of blog websites to their own newsletters if they have a newsletter popup to get back at them for showing 3 popups before letting me get to the actual content >:)_ <br/>
 
