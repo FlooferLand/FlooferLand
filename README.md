@@ -11,10 +11,6 @@ Current OS: `Windows 11`  *(not by choice)*
 Check out my website at https://flooferland.com
 
 
-## Contact me?
-Feel free to contact me [on Tumblr](https://flooferland.tumblr.com/), or the contact email listed on [my website](https://flooferland.com) <br/>
-
-
 ## Favourite languages
 _(sorted from most potato to least potato)_ _(I love potatos)_
   1. Kotlin *(very modern and nice to use)*
@@ -27,6 +23,10 @@ _(sorted from most potato to least potato)_ _(I love potatos)_
 
 #### Languages i use most often
 [![Language list](https://github-readme-stats.vercel.app/api/top-langs/?username=FlooferLand&layout=compact&theme=onedark&langs_count=14&exclude_repo=Funkin,Phantoma)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Contact me?
+Feel free to contact me [on Tumblr](https://flooferland.tumblr.com/), or the contact email listed on [my website](https://flooferland.com) <br/>
 
 
 ## Non-nerdy things
