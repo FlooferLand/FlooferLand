@@ -48,4 +48,4 @@ _(sorted from most potato to least potato)_ _(I love potatos)_
   7. Assembly *(will be learning sometime, as i want to make NES games!)*
 
 #### Languages i use most often
-[![Language list](https://github-readme-stats.vercel.app/api/top-langs/?username=FlooferLand&layout=compact&theme=onedark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
+[![Language list](https://github-readme-stats.vercel.app/api/top-langs/?username=FlooferLand&layout=compact&theme=onedark&langs_count=12&exclude_repo=Funkin,Phantoma)](https://github.com/anuraghazra/github-readme-stats)
