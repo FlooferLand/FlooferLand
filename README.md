@@ -10,8 +10,24 @@ Current OS: `Windows 11`  *(not by choice)*
 *(Some more info about me in my [Mastodon introduction](https://fandom.garden/web/@flooferland/109328457878674654))* <br/>
 Check out my website at https://flooferland.com
 
+
 ## Contact me?
 Feel free to contact me [on Tumblr](https://flooferland.tumblr.com/), or the contact email listed on [my website](https://flooferland.com) <br/>
+
+
+## Favourite languages
+_(sorted from most potato to least potato)_ _(I love potatos)_
+  1. Kotlin *(very modern and nice to use)*
+  2. Rust *(900 out of 10 but it sucks for game development rn)*
+  3. C# & Java
+  4. C++
+  5. Python
+  6. JavaScript / TypeScript
+  7. Assembly *(will be learning sometime, as i want to make NES games!)*
+
+#### Languages i use most often
+[![Language list](https://github-readme-stats.vercel.app/api/top-langs/?username=FlooferLand&layout=compact&theme=onedark&langs_count=14&exclude_repo=Funkin,Phantoma)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Non-nerdy things
 If you wanna hear out the "omg i love big corporation number 11 🥺 and big dude number 14 🥺" talk, click the next thing.
@@ -46,16 +62,3 @@ If you wanna hear out the "omg i love big corporation number 11 🥺 and big dud
 <hr/>
 
 </details>
-
-## Favourite languages
-_(sorted from most potato to least potato)_ _(I love potatos)_
-  1. Kotlin *(very modern and nice to use)*
-  2. Rust *(900 out of 10 but it sucks for game development rn)*
-  3. C# & Java
-  4. C++
-  5. Python
-  6. JavaScript / TypeScript
-  7. Assembly *(will be learning sometime, as i want to make NES games!)*
-
-#### Languages i use most often
-[![Language list](https://github-readme-stats.vercel.app/api/top-langs/?username=FlooferLand&layout=compact&theme=onedark&langs_count=14&exclude_repo=Funkin,Phantoma)](https://github.com/anuraghazra/github-readme-stats)
