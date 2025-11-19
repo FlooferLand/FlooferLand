@@ -32,6 +32,8 @@ Feel free to contact me [on Tumblr](https://flooferland.tumblr.com/), or the con
 ## Non-nerdy things
 If you wanna hear out the "omg i love big corporation number 11 🥺 and big dude number 14 🥺" talk, click the next thing.
 
+_Might be a bit outdated_
+
 <details>
 
 <summary>Click to find out all the things I stand for!</summary>
