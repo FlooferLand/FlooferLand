@@ -39,12 +39,13 @@ Click [here](#favourite-languages) to skip to my fav languages and stuff! _(if y
 
 ## Favourite languages
 _(sorted from most potato to least potato)_ _(I love potatos)_
-  1. Rust *(900 out of 10 but it sucks for game development rn)*
-  2. C# & Java
-  3. C++
-  4. Python
-  5. JavaScript / TypeScript
-  6. Assembly *(will be learning sometime, as i want to make NES games!)*
+  1. Kotlin *(very modern and nice to use)*
+  2. Rust *(900 out of 10 but it sucks for game development rn)*
+  3. C# & Java
+  4. C++
+  5. Python
+  6. JavaScript / TypeScript
+  7. Assembly *(will be learning sometime, as i want to make NES games!)*
 
 #### Languages i use most often
 [![Language list](https://github-readme-stats.vercel.app/api/top-langs/?username=FlooferLand&layout=compact&theme=onedark&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
